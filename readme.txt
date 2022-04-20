@@ -1,9 +1,9 @@
 
 Before extracting text from ocr engines we need python version greater than 3.7.1
-I use pycharm ad main ide that is faster for my pc.
+I use pycharm as main ide that is faster for my pc.
 
 I recommend to use pycharm for this pytesseract 
-Create new project now open python interpreter in pycharm settings and select add packages now search for opencv-python and pytesseract select install.
+Create new project ...now open python interpreter ,in pycharm settings and select add packages now search for opencv-python and pytesseract select install.
 
 
 If you are using Windows OS, I recommend you to install TESSERACT.exe in your local disk first. 
